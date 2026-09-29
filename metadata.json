@@ -1,0 +1,12 @@
+{
+  "name": "PresensiKu - Face Recognition Sekolah",
+  "description": "Aplikasi absensi sekolah dengan face recognition otomatis terintegrasi data siswa, rekap kehadiran harian/bulanan, dan cetak kartu pelajar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
